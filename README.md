@@ -1,6 +1,7 @@
 
 
 # Projeto Venom
+[Link da aplicacao](https://dionatarech.github.io/Projeto-Venon/src/index)
 
 Este é o projeto Venom, uma landing page desenvolvida como parte do curso Starter Full Stack Web Developer. A landing page apresenta animações interativas e foi desenvolvida em colaboração com os colegas @dioni e @wilsom.
 
